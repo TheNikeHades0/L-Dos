@@ -1,7 +1,4 @@
-<h1 align="center"> P DDoS </h1> 
-
-###
-<img src="https://img.shields.io/badge/Version-1.0.0-blue"> <img src="https://img.shields.io/github/license/TheNikeHades0/L-DoS"> <img src="https://img.shields.io/github/languages/code-size/TheNikeHades0/L-Dos">
+<h1 align="center"> L DDoS </h1>
 
 
 L-DoS is an open source DDoSer with many attractive options like Ping an ip , Get some infos about an IP address , Find the host IP address of a site and more !  💫
@@ -20,11 +17,3 @@ You just need to have python installed on your device (python 3.11 is recommende
 * Type `pip install -r requirements.txt` & wait it to finish
 * Type `python main.py` or `python3 main.py` and press Enter
 * Enjoy 🎉
-
-### Screenshots
-<div align="center">
-   <img src="https://cdn.discordapp.com/attachments/1126138099563507793/1126213415925469285/image.png" width="400" height="200" />
-   <img src="https://cdn.discordapp.com/attachments/1126138099563507793/1126214868811395143/image.png"  width="400" height="200" />
-   <img src="https://cdn.discordapp.com/attachments/1126138099563507793/1126214868475838484/image.png" width="400" height="200" />
-   <img src="https://cdn.discordapp.com/attachments/1126138099563507793/1126215581826289744/image.png" width="400" height="200" />
-</div>
