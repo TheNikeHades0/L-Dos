@@ -46,7 +46,7 @@ def main():
     system("cls")
 
     
-    print(R + "> https://github.com/P1shi/PDoS \n")
+    print(R + "> https://github.com/TheNikeHades0/L-Dos \n")
     print( R + "_      _   _  _____  _____ ______")
     print( R + "| |    | | | |/  ___||  ___|| ___ \ ")
     print( R + "| |    | | | |\ `--. | |__  | |_/ /")
